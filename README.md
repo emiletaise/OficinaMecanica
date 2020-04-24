@@ -1,5 +1,5 @@
 # Oficina Mecanica
-Aplicação para oficina mecânica.
+Aplicação para oficina mecânica com interface gráfica.
 
 - Cliente;
 - Veículo;
