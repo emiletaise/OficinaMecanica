@@ -1,4 +1,4 @@
-# Oficina Mecanica
+# Oficina Mecânica
 Aplicação para oficina mecânica com interface gráfica.
 
 - Cliente;
